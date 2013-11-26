@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1384367868 source:c:\users\dell\documents\things\programacion ii\tarea2_2doparcial\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
